@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/babasport-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/babasport-console" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/babasport-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/babasport-javaBean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/babasport-login" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/babasport-portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/babasport-service-buyer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/babasport-service-cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/babasport-service-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/babasport-service-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/babasport-service-solr" charset="UTF-8" />
+  </component>
+</project>

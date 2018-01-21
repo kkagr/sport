@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/babasport-common/babasport-common.iml" filepath="$PROJECT_DIR$/babasport-common/babasport-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babasport-console/babasport-console.iml" filepath="$PROJECT_DIR$/babasport-console/babasport-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babasport-dao/babasport-dao.iml" filepath="$PROJECT_DIR$/babasport-dao/babasport-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babasport-javaBean/babasport-javaBean.iml" filepath="$PROJECT_DIR$/babasport-javaBean/babasport-javaBean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babasport-login/babasport-login.iml" filepath="$PROJECT_DIR$/babasport-login/babasport-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babasport-portal/babasport-portal.iml" filepath="$PROJECT_DIR$/babasport-portal/babasport-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babasport-service-buyer/babasport-service-buyer.iml" filepath="$PROJECT_DIR$/babasport-service-buyer/babasport-service-buyer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babasport-service-cms/babasport-service-cms.iml" filepath="$PROJECT_DIR$/babasport-service-cms/babasport-service-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babasport-service-interface/babasport-service-interface.iml" filepath="$PROJECT_DIR$/babasport-service-interface/babasport-service-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babasport-service-product/babasport-service-product.iml" filepath="$PROJECT_DIR$/babasport-service-product/babasport-service-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babasport-service-solr/babasport-service-solr.iml" filepath="$PROJECT_DIR$/babasport-service-solr/babasport-service-solr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent193.iml" filepath="$PROJECT_DIR$/parent193.iml" />
+    </modules>
+  </component>
+</project>

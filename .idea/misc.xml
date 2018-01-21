@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/babasport-console" />
+    <file type="web" url="file://$PROJECT_DIR$/babasport-login" />
+    <file type="web" url="file://$PROJECT_DIR$/babasport-portal" />
+    <file type="web" url="file://$PROJECT_DIR$/babasport-service-buyer" />
+    <file type="web" url="file://$PROJECT_DIR$/babasport-service-cms" />
+    <file type="web" url="file://$PROJECT_DIR$/babasport-service-product" />
+    <file type="web" url="file://$PROJECT_DIR$/babasport-service-solr" />
+  </component>
+  <component name="IdProvider" IDEtalkID="C7FB731AE0DBEDE1C9AABD295AF6F52C" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="C:\mybatis-3-mapper.dtd" location="C:/" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+</project>

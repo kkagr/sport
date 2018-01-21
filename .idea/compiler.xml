@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="babasport-common" />
+        <module name="babasport-console" />
+        <module name="babasport-dao" />
+        <module name="babasport-javaBean" />
+        <module name="babasport-login" />
+        <module name="babasport-portal" />
+        <module name="babasport-service-buyer" />
+        <module name="babasport-service-cms" />
+        <module name="babasport-service-interface" />
+        <module name="babasport-service-product" />
+        <module name="babasport-service-solr" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="babasport-common" target="1.7" />
+      <module name="babasport-console" target="1.7" />
+      <module name="babasport-dao" target="1.7" />
+      <module name="babasport-javaBean" target="1.7" />
+      <module name="babasport-login" target="1.7" />
+      <module name="babasport-portal" target="1.7" />
+      <module name="babasport-service-buyer" target="1.7" />
+      <module name="babasport-service-cms" target="1.7" />
+      <module name="babasport-service-interface" target="1.7" />
+      <module name="babasport-service-product" target="1.7" />
+      <module name="babasport-service-solr" target="1.7" />
+      <module name="parent193" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
